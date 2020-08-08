@@ -11,10 +11,10 @@ msgid " Builtin Users"
 msgstr ""
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " 자세한 사항은 알림을 확인하십시오."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " 업데이트 다운로드"
 
 msgid " First data vdev is a "
 msgstr ""
@@ -29,10 +29,10 @@ msgid " KiB."
 msgstr ""
 
 msgid " Plugin"
-msgstr ""
+msgstr "플러그인"
 
 msgid " Service"
-msgstr ""
+msgstr "서비스"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -96,16 +96,16 @@ msgid ""
 msgstr ""
 
 msgid " official plugins"
-msgstr ""
+msgstr " 오피설 플러그인"
 
 msgid " seconds"
-msgstr ""
+msgstr " 초"
 
 msgid " seconds."
-msgstr ""
+msgstr " 초."
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " 서비스가 활성화 되었습니다."
 
 msgid " should be at least "
 msgstr ""
@@ -114,19 +114,19 @@ msgid " should be no more than "
 msgstr ""
 
 msgid " successfully saved."
-msgstr ""
+msgstr " 저장 성공했습니다."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " 잠금해제를 성공했습니다"
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " 시스템이 켜져있고 네트워크에 연결되었습니다."
 
 msgid " to include all "
 msgstr ""
 
 msgid " update successful"
-msgstr ""
+msgstr " 업데이트를 성공했습니다"
 
 msgid " updated."
 msgstr ""
@@ -145,10 +145,10 @@ msgid "'. All data on that pool was destroyed."
 msgstr ""
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "(24 시간)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(예: 500Kib, 500M, 2 TB)"
 
 msgid "(Legacy Encryption)"
 msgstr ""
@@ -187,7 +187,7 @@ msgid "2FA"
 msgstr ""
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": 자동 업데이트 확인을 실패했습니다. 네트워크 설정을 확인해주십시오."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr ""
@@ -208,7 +208,7 @@ msgid "</i> now?"
 msgstr ""
 
 msgid "</i> stopped."
-msgstr ""
+msgstr "</i> 정지됨."
 
 msgid "</i> updated."
 msgstr ""
